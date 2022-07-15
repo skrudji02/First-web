@@ -1,0 +1,284 @@
+
+.hat{
+
+    position: absolute;
+    width: 1920px;
+    height: 557px;
+    left: 0px;
+    top: -39px;
+}
+
+.nav{
+    display:flex;
+    flex-flow: row no;
+}
+
+.HitarforBegin
+{
+    position: absolute;
+    width: 771px;
+    height: 77px;
+    left: 89px;
+    top: 161px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 64px;
+    line-height: 77px;
+    text-align: center;
+
+    color: #FBF7F7;
+}
+
+.CourseforThose{
+    position: absolute;
+    width: 764px;
+    height: 39px;
+    left: 67px;
+    top: 275px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 39px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+
+.ListMenu{
+    margin:0;
+    padding:0;
+    list-style: none;
+    color: #FDFDFD;
+    position: absolute;
+    height: 44px;
+    left:1248px;
+    top: 36px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: center;
+}
+
+.ListMenu li{
+    
+    display:inline-block;
+}
+
+.ListMenu li a{
+
+    padding: 0 30px;
+}
+
+.button1{
+    position: absolute;
+    width: 349px;
+    height: 100px;
+    left: 68px;
+    top: 361px;
+
+    background: #F3EBEB;
+    border-radius: 36px;
+}
+
+.button1:hover{
+    background: #b5b2b2;
+}
+
+.button2{
+    position: absolute;
+    width: 349px;
+    height: 100px;
+    left: 594px;
+    top: 361px;
+
+    background: #F3EBEB;
+    border-radius: 36px;
+    
+}
+
+.button2:hover{
+    background:#b5b2b2;
+}
+
+.headerStr{
+
+    position: absolute;
+    width: 1920px;
+    height: 107px;
+    left: -15px;
+    top: 571px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 96px;
+    line-height: 116px;
+    text-align: center;
+    
+    color: #000000;
+}
+
+.muze{
+    position: absolute;
+    width: 1450px;
+    height: 225px;
+    left: 202px;
+    top: 878px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: center;
+    
+    color: #000000;
+}
+
+.picture1{
+    position: absolute;
+    width: 477.59px;
+    height: 420px;
+    left: 96px;
+    top: 1240px;
+
+    background: url(ebcd68c9-e97e-5bdd-a9de-a01f799ceb55.jpg);
+    border-radius: 35px;
+}
+
+.picture2{
+    position: absolute;
+    width: 451px;
+    height: 420px;
+    left: 757px;
+    top: 1240px;
+
+    background: url(2b83565207965bf79f453788954f9a57.jpg);
+    border-radius: 35px;
+}
+
+.picture3{
+    position: absolute;
+    width: 450px;
+    height: 422px;
+    left: 1391px;
+    top: 1238px;
+
+    background: url(jpg1949177316.jpg);
+    border-radius: 35px;
+}
+
+.strPicture1{
+    position: absolute;
+width: 568px;
+height: 138px;
+left: 68px;
+top: 1743px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 48px;
+text-align: center;
+
+color: #181616;
+}
+
+.strPicture2{
+    position: absolute;
+width: 531px;
+height: 102px;
+left: 717px;
+top: 1743px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 48px;
+text-align: center;
+
+color: #181616;
+}
+
+.strPicture3{
+    position: absolute;
+width: 531px;
+height: 123px;
+left: 1353px;
+top: 1743px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 40px;
+line-height: 48px;
+text-align: center;
+
+color: #181616;
+}
+
+.pictureFooter{
+    position: absolute;
+width: 1920px;
+height: 317px;
+left: 0px;
+top: 2085px;
+
+background: #D9D9D9;
+}
+
+.footerStr{
+    position: absolute;
+width: 544px;
+height: 137px;
+left: 32px;
+top: 2176px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 44px;
+text-align: center;
+
+color: #000000;
+}
+
+.phone{
+    position: absolute;
+width: 529px;
+height: 99px;
+left: 1325px;
+top: 2161px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 44px;
+text-align: center;
+
+color: #000000;
+}
+
+.button3{
+    position: absolute;
+width: 476px;
+height: 120px;
+left: 1343px;
+top: 2238px;
+
+background: #97AD95;
+border-radius: 35px;
+}
