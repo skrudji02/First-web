@@ -1,4 +1,3 @@
-
 .hat{
 
     position: absolute;
@@ -78,61 +77,48 @@
     color: #FDFDFD;
 }
 
-.button1{
+.why{
     position: absolute;
-    width: 349px;
-    height: 100px;
-    left: 68px;
-    top: 361px;
+width: 1374px;
+height: 99px;
+left: 264px;
+top: 618px;
 
-    background: #F3EBEB;
-    border-radius: 36px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 96px;
+line-height: 116px;
+text-align: center;
+
+color: #000000;
 }
 
-.button1:hover{
-    background: #b5b2b2;
-}
-
-.button2{
+.paragraph1 .header
+{
     position: absolute;
-    width: 349px;
-    height: 100px;
-    left: 594px;
-    top: 361px;
+width: 1138px;
+height: 79px;
+left: 449px;
+top: 817px;
 
-    background: #F3EBEB;
-    border-radius: 36px;
-    
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 77px;
+text-align: center;
+
+color: #000000;
 }
 
-.button2:hover{
-    background:#b5b2b2;
-}
-
-.headerStr{
-
+.paragraph1 .str
+{
     position: absolute;
-    width: 1920px;
-    height: 107px;
-    left: -15px;
-    top: 571px;
-    
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 96px;
-    line-height: 116px;
-    text-align: center;
-    
-    color: #000000;
-}
-
-.muze{
-    position: absolute;
-    width: 1450px;
-    height: 225px;
-    left: 202px;
-    top: 878px;
+    width: 1188px;
+    height: 141px;
+    left: 519px;
+    top: 986px;
     
     font-family: 'Inter';
     font-style: normal;
@@ -144,89 +130,121 @@
     color: #000000;
 }
 
-.picture1{
+.paragraph1 .picture
+{
     position: absolute;
-    width: 477.59px;
-    height: 420px;
-    left: 96px;
-    top: 1240px;
-
-    background: url(ebcd68c9-e97e-5bdd-a9de-a01f799ceb55.jpg);
-    border-radius: 35px;
+    width: 182.65px;
+    height: 179px;
+    left: 157px;
+    top: 986px;
+    
+    background: url(png-clipart-bar-chart-pie-chart-others-miscellaneous-angle.png);
 }
 
-.picture2{
+.paragraph2 .header
+{
     position: absolute;
-    width: 451px;
-    height: 420px;
-    left: 757px;
-    top: 1240px;
-
-    background: url(2b83565207965bf79f453788954f9a57.jpg);
-    border-radius: 35px;
+    width: 997px;
+    height: 106px;
+    left: 550px;
+    top: 1273px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 77px;
+    text-align: center;
+    
+    color: #000000;
+    
 }
 
-.picture3{
+.paragraph2 .str
+{
     position: absolute;
-    width: 450px;
-    height: 422px;
-    left: 1391px;
-    top: 1238px;
-
-    background: url(jpg1949177316.jpg);
-    border-radius: 35px;
+    width: 1144px;
+    height: 344px;
+    left: 533px;
+    top: 1427px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: center;
+    
+    color: #000000;
 }
 
-.strPicture1{
+.paragraph2 .picture
+{
     position: absolute;
-width: 568px;
-height: 138px;
-left: 68px;
-top: 1743px;
-
-font-family: 'Inter';
-font-style: normal;
-font-weight: 500;
-font-size: 40px;
-line-height: 48px;
-text-align: center;
-
-color: #181616;
+    width: 198.32px;
+    height: 179px;
+    left: 157px;
+    top: 1423px;
+    
+    background: url(png-clipart-piggy-bank-finance-money-saving-piggy-bank-black-and-white-saving-dog-like-mammal.png);
 }
 
-.strPicture2{
+.paragraph3 .header
+{
     position: absolute;
-width: 531px;
-height: 102px;
-left: 717px;
-top: 1743px;
-
-font-family: 'Inter';
-font-style: normal;
-font-weight: 500;
-font-size: 40px;
-line-height: 48px;
-text-align: center;
-
-color: #181616;
+    width: 1177px;
+    height: 165px;
+    left: 460px;
+    top: 1668px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 77px;
+    text-align: center;
+    
+    color: #000000;
+    
 }
 
-.strPicture3{
+.paragraph3 .str
+{
     position: absolute;
-width: 531px;
-height: 123px;
-left: 1353px;
-top: 1743px;
-
-font-family: 'Inter';
-font-style: normal;
-font-weight: 500;
-font-size: 40px;
-line-height: 48px;
-text-align: center;
-
-color: #181616;
+    width: 1200px;
+    height: 252px;
+    left: 498px;
+    top: 1881px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: center;
+    
+    color: #000000;
 }
+
+.paragraph3 .picture
+{
+    position: absolute;
+    width: 179px;
+    height: 179px;
+    left: 173px;
+    top: 1860px;
+    
+    background: url(clipart-computer-computer-center-11.png);
+}
+
+
+
+
+
+
+
+
+
 
 .pictureFooter{
     position: absolute;
